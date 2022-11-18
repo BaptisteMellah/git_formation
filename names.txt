@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 thomas duarte
+=======
+Cédric SIMAR
+Florian Savouré
+Lucia LEBRUN
+>>>>>>> ba662320a61e29c07d98d5887cec5067a40745a6
