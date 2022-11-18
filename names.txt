@@ -1,19 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Guilhem CALONNE
-=======
-<<<<<<< HEAD
-=======
-=======
 Ludovic Angenard
->>>>>>> fc0228c57095a60ae8e6257b021f19821d57d68a
 Cédric SIMAR
->>>>>>> ba662320a61e29c07d98d5887cec5067a40745a6
 Florian Savouré
 Lucia LEBRUN
-<<<<<<< HEAD
->>>>>>> bdce81ec03489a85e184e42154e1a69d9bd866ed
->>>>>>> 1d1827e65f005ee39b9e45e67622db4f12cb9a31
-=======
->>>>>>> ba662320a61e29c07d98d5887cec5067a40745a6
