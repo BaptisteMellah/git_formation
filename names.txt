@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Guilhem CALONNE
 =======
 <<<<<<< HEAD
 =======
+=======
+Ludovic Angenard
+>>>>>>> fc0228c57095a60ae8e6257b021f19821d57d68a
 Cédric SIMAR
 >>>>>>> ba662320a61e29c07d98d5887cec5067a40745a6
 Florian Savouré
