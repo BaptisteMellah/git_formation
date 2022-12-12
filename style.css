@@ -1,0 +1,29 @@
+.thomGuiAlex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.thomGuiAlex .memberCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.thomGuiAlex .memberImg {
+    background-position: center;
+    background-size: cover;
+    height: 10rem;
+    width: 7.5rem;
+}
+
+.thomGuiAlex #Alexandre {
+ background-image: url("https://i.pinimg.com/originals/6c/7d/64/6c7d64197babe9cd2a31773d12d13fda.jpg");
+}
+
+.thomGuiAlex #Guilhem {
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/015/060/345/large/ahura-art-jonj-blacksx.jpg?1546905236");
+}
+
+.thomGuiAlex #Thomas {
+    background-image: url("https://scontent-cdt1-1.xx.fbcdn.net/v/t39.30808-6/298581648_3334348066843594_7794096817164211658_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=3GMvKbfcufQAX803k1I&_nc_ht=scontent-cdt1-1.xx&oh=00_AfAG7N0NZO7acJ_b-ydN8AsFJvPAEl-hAE9HKlgorqi04Q&oe=639C3721");
+}
