@@ -1,0 +1,68 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.tga-returnButton {
+  position: absolute;
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: cornflowerblue;
+  border-radius: 0.5rem;
+  color: aliceblue;
+}
+
+.tga-profile {
+  display: flex;
+  height: 100vh;
+}
+
+.tga-profile .memberImage {
+  display: flex;
+  flex: 0.5;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.tga-profile .memberInfo {
+  display: flex;
+  flex: 0.5;
+  flex-direction: column;
+  background: rgb(255, 199, 199);
+  background: linear-gradient(
+    45deg,
+    hsl(0deg 100% 75%) 0%,
+    hsl(0deg 100% 73%) 11%,
+    hsl(1deg 100% 71%) 22%,
+    hsl(1deg 100% 69%) 33%,
+    hsl(1deg 100% 67%) 44%,
+    hsl(1deg 100% 65%) 56%,
+    hsl(1deg 100% 63%) 67%,
+    hsl(1deg 100% 61%) 78%,
+    hsl(1deg 100% 59%) 89%,
+    hsl(0deg 100% 57%) 100%
+  );
+  align-items: center;
+}
+
+.tga-profile .memberInfo .infos {
+  border-radius: 0.5rem;
+  background-color: black;
+  color: aliceblue;
+  width: fit-content;
+  height: fit-content;
+  margin: 10%;
+  padding: 0 5%;
+}
+
+.tga-profile .memberInfo .infos .h2Name {
+  font-weight: bold;
+  font-size: 48px;
+}
+
+.tga-profile .memberInfo .infos .list {
+  font-size: 24px;
+  line-height: 3rem;
+}
